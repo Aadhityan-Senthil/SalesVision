@@ -112,4 +112,4 @@ We welcome contributions! If you'd like to contribute, follow these steps:
 6. Open a pull request
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal license. See the [LICENSE](LICENSE) file for details.
