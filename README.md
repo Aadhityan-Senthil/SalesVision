@@ -1,4 +1,4 @@
-#SalesVision
+##SalesVision
 
 ## Overview
 The **Sales Prediction** project utilizes machine learning techniques to forecast sales based on historical data. This model helps businesses optimize their inventory, forecast revenue, and make data-driven decisions to improve performance.
@@ -107,7 +107,3 @@ If you’d like to contribute to the project, please follow these steps:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the structure and content based on the specifics of your project and your preferences!
