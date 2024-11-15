@@ -1,5 +1,4 @@
-# **SalesVision**
-A machine learning model.
+**SalesVision**
 
 ## Overview
 The **Sales Prediction** project utilizes machine learning techniques to forecast sales based on historical data. This model helps businesses optimize their inventory, forecast revenue, and make data-driven decisions to improve performance.
