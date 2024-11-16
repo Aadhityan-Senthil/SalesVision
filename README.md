@@ -114,5 +114,3 @@ We welcome contributions! If you'd like to contribute, follow these steps:
 
 ## 📜 **License**
 This project is licensed under the **Creative Commons Zero v1.0 Universal** license. See the `LICENSE` file for details.
-
----
